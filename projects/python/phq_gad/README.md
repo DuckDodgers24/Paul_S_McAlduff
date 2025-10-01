@@ -1,43 +1,35 @@
-# Patient Health Questionnaire and Generalized Anxiety Disorder Screening Tools
-
-## (PHQ-9 and GAD-7)
-
-### About This Project
-
+Patient Health Questionnaire and Generalized Anxiety Disorder Screening Tools
+(PHQ-9 and GAD-7)
+About This Project
 This project is a Python implementation of two widely-used mental health screening instruments:
 
-- **PHQ-9** (Patient Health Questionnaire-9): Screens for depression symptoms
-- **GAD-7** (Generalized Anxiety Disorder-7): Screens for anxiety symptoms
+PHQ-9 (Patient Health Questionnaire-9): Screens for depression symptoms
+GAD-7 (Generalized Anxiety Disorder-7): Screens for anxiety symptoms
 
 Both are public domain screening tools developed by Drs. Spitzer, Kroenke, Williams, and Löwe.
-
-### Three Programming Paradigms
-
+Three Programming Paradigms
 This project demonstrates the same functionality implemented in three different ways:
 
-1. **Procedural** - Sequential code with loops
-2. **Function-based** - Modular functions
-3. **Class-based** - Object-oriented design
+Procedural - Sequential code with loops
+Function-based - Modular functions
+Class-based - Object-oriented design
 
-### Educational Purpose
+Educational Purpose
+This is a programming exercise created for educational purposes to demonstrate different coding approaches. It is not intended for clinical use or self-diagnosis. If you have mental health concerns, please consult a qualified healthcare professional.
+Features
 
-This is a programming exercise created for educational purposes to demonstrate different coding approaches. It is **not intended for clinical use or self-diagnosis**. If you have mental health concerns, please consult a qualified healthcare professional.
+Interactive command-line interface
+Input validation
+Automated scoring
+Severity level interpretation
+Crisis resource information
 
-### Features
+Requirements
 
-- Interactive command-line interface
-- Input validation
-- Automated scoring
-- Severity level interpretation
-- Crisis resource information
+Python 3.x (no additional packages required)
 
-### Requirements
-
-- Python 3.x (no additional packages required)
-
-### Installation
-```bash
-git clone https://github.com/yourusername/phq-gad-screening.git
+Installation
+bashgit clone https://github.com/yourusername/phq-gad-screening.git
 cd phq-gad-screening
 Usage
 Run any version directly:
@@ -76,4 +68,4 @@ References
 
 Kroenke, K., Spitzer, R. L., & Williams, J. B. (2001). The PHQ-9: validity of a brief depression severity measure. Journal of General Internal Medicine, 16(9), 606-613.
 Spitzer, R. L., Kroenke, K., Williams, J. B., & Löwe, B. (2006). A brief measure for assessing generalized anxiety disorder: the GAD-7. Archives of Internal Medicine, 166(10), 1092-1097.
-
+RetryClaude can make mistakes. Please double-check responses.
