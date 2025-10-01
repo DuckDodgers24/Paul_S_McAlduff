@@ -38,8 +38,9 @@ This is a programming exercise created for educational purposes to demonstrate d
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/phq-gad-screening.git
-cd phq-gad-screening
+git clone https://github.com/DuckDodgers24/Paul_S_McAlduff/blob/main/projects/python/phq_gad.git
+
+cd phq_gad
 ```
 
 ### Usage
