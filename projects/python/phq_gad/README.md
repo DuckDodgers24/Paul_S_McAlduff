@@ -29,8 +29,6 @@ This is a programming exercise created for educational purposes to demonstrate d
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/phq-gad-screening.git
-cd phq-gad-screening
 Usage
 Run any version directly:
 bashpython procedural_version.py
