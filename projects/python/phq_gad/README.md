@@ -29,13 +29,14 @@ This is a programming exercise created for educational purposes to demonstrate d
 
 ### Installation
 ```bash
-Usage
+Usage:
 Run any version directly:
 bashpython procedural_version.py
 python function_version.py
 python class_version.py
 Or if Python is associated with .py files on your system, double-click the file.
-Scoring
+
+Scoring:
 PHQ-9 (Depression - Range: 0-27)
 
 0-4: Minimal depression
@@ -59,10 +60,14 @@ Emergency: 911
 Visit your nearest emergency room
 
 License
-This implementation is provided for educational purposes. The PHQ-9 and GAD-7 instruments are in the public domain.
-Disclaimer
-These screening tools cannot diagnose mental health conditions. Results should not be used for self-diagnosis or treatment decisions. Always consult qualified healthcare professionals for proper evaluation and care.
-References
+This implementation is provided for educational purposes.
+The PHQ-9 and GAD-7 instruments are in the public domain.
 
+Disclaimer
+These screening tools cannot diagnose mental health conditions.
+Results should not be used for self-diagnosis or treatment decisions.
+Always consult qualified healthcare professionals for proper evaluation and care.
+
+References:
 Kroenke, K., Spitzer, R. L., & Williams, J. B. (2001). The PHQ-9: validity of a brief depression severity measure. Journal of General Internal Medicine, 16(9), 606-613.
 Spitzer, R. L., Kroenke, K., Williams, J. B., & Löwe, B. (2006). A brief measure for assessing generalized anxiety disorder: the GAD-7. Archives of Internal Medicine, 166(10), 1092-1097.
