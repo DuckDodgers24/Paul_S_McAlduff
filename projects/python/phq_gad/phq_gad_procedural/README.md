@@ -8,14 +8,13 @@ This project is a Python implementation of two widely-used mental health screeni
 
 Both are public domain screening tools developed by Drs. Spitzer, Kroenke, Williams, and Löwe.
 
-**Three Programming Paradigms:**
-This project demonstrates the same functionality implemented in three different ways:
-1. **Procedural** - Sequential code with loops
-2. **Function-based** - Modular functions
-3. **Class-based** - Object-oriented design
+**One of three Programming Paradigms:**
+**Procedural** - Sequential code with loops
 
 ### Educational Purpose
-This is a programming exercise created for educational purposes to demonstrate different coding approaches. It is **not intended for clinical use or self-diagnosis**. If you have mental health concerns, please consult a qualified healthcare professional.
+This is a programming exercise created for educational purposes to demonstrate different coding approaches. 
+It is **not intended for clinical use or self-diagnosis**. If you have mental health concerns, please consult 
+a qualified healthcare professional.
 
 ### Features
 - Interactive command-line interface
