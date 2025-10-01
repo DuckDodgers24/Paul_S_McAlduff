@@ -8,7 +8,7 @@ This project is a Python implementation of two widely-used mental health screeni
 
 Both are public domain screening tools developed by Drs. Spitzer, Kroenke, Williams, and Löwe.
 
-###One of three Programming Paradigms:
+### One of three Programming Paradigms:
 **Procedural** - Sequential code with loops
 
 ### Educational Purpose
