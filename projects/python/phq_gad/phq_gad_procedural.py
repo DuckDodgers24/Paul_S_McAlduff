@@ -142,3 +142,5 @@ qualified healthcare professional.
 
 Crisis Resources: 988 Suicide & Crisis Lifeline | Emergency: 911
 """)
+
+input("\nPress Enter to exit...")
