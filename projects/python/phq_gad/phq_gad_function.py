@@ -147,8 +147,10 @@ def main():
     gad_results(user_score_gad)
 
     print_final_note()
-
+    
+    input("\nPress Enter to exit...")
 
 # --- Entry Point ---
 if __name__ == "__main__":
     main()
+
