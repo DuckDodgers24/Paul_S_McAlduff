@@ -91,4 +91,4 @@ These screening tools cannot diagnose mental health conditions. Results should n
 ### References
 
 - Kroenke, K., Spitzer, R. L., & Williams, J. B. (2001). The PHQ-9: validity of a brief depression severity measure. *Journal of General Internal Medicine*, 16(9), 606-613.
-- Spitzer, R. L., Kroenke, K., Williams, J. B., & Löwe, B. (2006). A
+- Spitzer, R. L., Kroenke, K., Williams, J. B., & Löwe, B. (2006). A brief measure for assessing generalized anxiety disorder: the GAD-7. *Archives of Internal Medicine*, 166(10), 1092-1097.
