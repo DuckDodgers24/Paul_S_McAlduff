@@ -13,11 +13,10 @@ Both are public domain screening tools developed by Drs. Spitzer, Kroenke, Willi
 
 ### Three Programming Paradigms
 
-This project demonstrates the same functionality implemented in three different ways:
+This project demonstrates the same functionality implemented in two different ways:
 
 1. **Procedural-based** - Sequential code with loops 
 2. **Function-based** - Modular functions
-3. **Class-based** - Object-oriented design (comming soon)
 
 ### Educational Purpose
 
@@ -50,7 +49,6 @@ Run any version directly:
 ```bash
 python procedural_version.py
 python function_version.py
-python class_version.py
 ```
 
 Or if Python is associated with .py files on your system, double-click the file.
