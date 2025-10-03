@@ -53,23 +53,6 @@ python function_version.py
 
 Or if Python is associated with .py files on your system, double-click the file.
 
-### Scoring
-
-**PHQ-9** (Depression - Range: 0-27)
-
-- 0-4: Minimal depression
-- 5-9: Mild depression
-- 10-14: Moderate depression
-- 15-19: Moderately severe depression
-- 20-27: Severe depression
-
-**GAD-7** (Anxiety - Range: 0-21)
-
-- 0-4: Minimal anxiety
-- 5-9: Mild anxiety
-- 10-14: Moderate anxiety
-- 15-21: Severe anxiety
-
 ### Crisis Resources
 
 If you're experiencing thoughts of self-harm:
