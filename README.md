@@ -24,10 +24,9 @@ Journal of Power Electronics, Seoul, South Korea
 ## Programing
 
 ### Python
-* Procedural Programming
-* Control Structures
-* Data Structures
-* Objects & Algorithms
+* Tkinter
+* psycopg2
+  
 ### SQL
 * MySQL - Workbench and shell
 * PostgreSQL - pgAdmin and SQL Shell (psql)
