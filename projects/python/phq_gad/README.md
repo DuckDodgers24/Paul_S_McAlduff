@@ -15,8 +15,9 @@ Both are public domain screening tools developed by Drs. Spitzer, Kroenke, Willi
 
 This project demonstrates the same functionality implemented in two different ways:
 
-1. **Procedural-based** - Sequential code with loops 
-2. **Function-based** - Modular functions
+1. **Procedural** - Sequential code with loops 
+2. **Functional** - Modular functions
+3. **Object-oriented** - Event-driven GUI with Tkinter
 
 ### Educational Purpose
 
