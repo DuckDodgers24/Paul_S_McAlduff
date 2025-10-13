@@ -39,18 +39,17 @@ This is a programming exercise created for educational purposes to demonstrate d
 ### Installation
 
 ```bash
-git clone https://github.com/DuckDodgers24/Paul_S_McAlduff/blob/main/projects/python/phq_gad.git
-
-cd phq_gad
+git clone https://github.com/DuckDodgers24/Paul_S_McAlduff.git
+cd Paul_S_McAlduff/projects/python/phq_gad
 ```
 
 ### Usage
 
 Run any version directly:
-
 ```bash
-python procedural_version.py
-python function_version.py
+python phq_gad_procedural.py
+python phq_gad_functional.py
+python phq9_oop_gui.py
 ```
 
 Or if Python is associated with .py files on your system, double-click the file.
