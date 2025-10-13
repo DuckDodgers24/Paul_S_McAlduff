@@ -33,7 +33,8 @@ This is a programming exercise created for educational purposes to demonstrate d
 
 ### Requirements
 
-- Python 3.x (no additional packages required)
+- Python 3.x (no additional packages required for CLI)
+- Tkinter (for GUI)
 
 ### Installation
 
