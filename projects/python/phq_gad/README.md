@@ -25,7 +25,7 @@ This is a programming exercise created for educational purposes to demonstrate d
 
 ### Features
 
-- Interactive command-line interface
+- Interactive CLI and GUI
 - Input validation
 - Automated scoring
 - Severity level interpretation
