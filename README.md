@@ -30,4 +30,4 @@ Journal of Power Electronics, Seoul, South Korea
 ### SQL
 * MySQL - Workbench and shell
 * PostgreSQL - pgAdmin and SQL Shell (psql)
-* DBever
+* DBeaver
