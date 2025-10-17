@@ -2,6 +2,10 @@
 
 ## (PHQ-9 and GAD-7)
 
+![GUI Screenshot](screenshots/screenshot_1.png)
+![GUI Screenshot](screenshots/screenshot_2.png)
+![GUI Screenshot](screenshots/screenshot_3.png)
+
 ### About This Project
 
 This project is a Python implementation of two widely-used mental health screening instruments:
