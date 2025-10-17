@@ -13,7 +13,7 @@ Both are public domain screening tools developed by Drs. Spitzer, Kroenke, Willi
 
 ### Three Programming Paradigms
 
-This project demonstrates the same functionality implemented in two different ways:
+This project demonstrates the same functionality implemented in three different ways:
 
 1. **Procedural** - Sequential code with loops 
 2. **Functional** - Modular functions
@@ -49,7 +49,7 @@ Run any version directly:
 ```bash
 python phq_gad_procedural.py
 python phq_gad_functional.py
-python phq9_oop_gui.py
+python phq_gad_oop_gui.py
 ```
 
 Or if Python is associated with .py files on your system, double-click the file.
