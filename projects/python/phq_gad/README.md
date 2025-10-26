@@ -33,7 +33,6 @@ This is a programming exercise created for educational purposes to demonstrate d
 - Input validation
 - Automated scoring
 - Severity level interpretation
-- Crisis resource information
 
 ### Requirements
 
