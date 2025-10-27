@@ -92,7 +92,7 @@ class PatientHealthQuestionnaire:
     def create_widgets(self):
         """ Display questions and prompts users for responses. """
         # Creates canvas for scrollbar
-        main_canvas = tk.Canvas(self.root)
+        main_canvas = tk.Canvas(self.root, highlightthickness=0)
         
         # Creates scrollbar
         vert_scrollbar = ttk.Scrollbar(self.root, orient='vertical', command=main_canvas.yview)
