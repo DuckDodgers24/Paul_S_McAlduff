@@ -90,5 +90,5 @@ The program is structured around a single main class:
 ## Author
 
 **Paul S. McAlduff**\
-GitHub: https://github.com/PaulMcAlduff
+GitHub: [https://github.com/PaulMcAlduff](https://github.com/DuckDodgers24/Paul_S_McAlduff/tree/main)
 
