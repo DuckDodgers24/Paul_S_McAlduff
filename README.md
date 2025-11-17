@@ -25,6 +25,7 @@ Journal of Power Electronics, Seoul, South Korea
 
 ### Python
 * Tkinter
+* Pillow
 * psycopg2
   
 ### SQL
