@@ -73,7 +73,7 @@ python ImageConverterApp_v1.2.py
 
 ## Screenshots
 
-![Image Converter -- Main Window](ImageConverterApp_v1.2.png)
+![Image Converter -- Main Window](screenshots/ImageConverterApp_v1.2.png)
 
 ## Project Structure
 
