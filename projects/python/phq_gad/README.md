@@ -5,8 +5,6 @@
 
 ## (PHQ-9 and GAD-7)
 
----
-
 ### About This Project
 
 This project is a Python implementation of two widely-used mental health screening instruments:
