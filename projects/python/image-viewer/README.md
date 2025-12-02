@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)
+
 # Image Viewer
 
 A lightweight desktop image viewer built with Python and PySide6 (Qt for Python).  
