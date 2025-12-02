@@ -15,8 +15,6 @@ Image Viewer supports static and animated formats, folder scanning, mouse-wheel 
 pip install PySide6 Pillow pillow-heif pillow-avif-plugin Send2Trash
 ```
 
-On some systems you may also need platform-specific image plugins or codecs for HEIF/HEIC/AVIF support (handled by `pillow-heif` and `pillow-avif-plugin`).
-
 ---
 
 ## Features
