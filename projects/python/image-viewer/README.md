@@ -144,6 +144,12 @@ The program will:
 
 ---
 
+## Screenshots
+
+![Image Converter -- Main Window](screenshots/ImageConverterApp_v1.2.png)
+
+---
+
 ## Project Structure
 
 Example layout:
