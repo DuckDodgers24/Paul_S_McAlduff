@@ -146,7 +146,7 @@ The program will:
 
 ## Screenshots
 
-![Image Converter -- Main Window](screenshots/ImageConverterApp_v1.2.png)
+![Image Viewer -- Main Window](screenshots/ImageViewerApp_v2.5.png)
 
 ---
 
