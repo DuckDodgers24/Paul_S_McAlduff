@@ -270,7 +270,7 @@ class IcoMaker(QMainWindow):
 
         Then it resets the instructional text beneath it and updates the label.
         """
-        self.status_message = f"{self.images_converted} of {self.images_dropped} images converted\n\nDrag & drop more image files\n\n512x512 only"
+        self.status_message = f"{self.images_converted} of {self.images_dropped} images converted\nDrag & drop more image files\n\n512x512 only"
         self.label.setText(self.status_message)
 
     # -----------------------------
