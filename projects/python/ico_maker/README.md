@@ -126,5 +126,5 @@ icomaker/
 
 ## Author
 
-**Paul S. McAlduff**  
-GitHub: [[https://github.com/PaulMcAlduff ](https://github.com/DuckDodgers24) ](https://github.com/DuckDodgers24/Paul_S_McAlduff/tree/main).
+**Paul S. McAlduff**\
+GitHub: [https://github.com/PaulMcAlduff](https://github.com/DuckDodgers24/Paul_S_McAlduff/tree/main)
