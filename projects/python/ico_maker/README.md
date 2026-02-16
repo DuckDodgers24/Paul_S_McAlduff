@@ -92,7 +92,7 @@ Clone or download this repository and place the icon files alongside the script.
 From the project directory:
 
 ```bash
-python IcoMaker.py
+python python IcoMaker.py
 ```
 
 Then:
