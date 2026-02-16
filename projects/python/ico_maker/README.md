@@ -103,6 +103,12 @@ Then:
 
 ---
 
+## Screenshots
+
+![Image Converter -- Main Window](screenshots/ico-maker.png)
+
+---
+
 ## Project Structure
 
 ```
