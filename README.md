@@ -34,9 +34,11 @@ Journal of Power Electronics — Seoul, South Korea
 
 ### Languages & Development
 - Python  
-- Qt (PySide6)  
-- Tkinter  
-- SQL  
+- SQL
+
+### GUI Frameworks
+- Qt (PySide6)
+- Tkinter
 
 ### Libraries & Tools
 - Pillow  
