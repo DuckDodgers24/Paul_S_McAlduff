@@ -104,5 +104,5 @@ These screening tools cannot diagnose mental health conditions. Results should n
 
 ## Author
 
-**Paul S. McAlduff**  
-GitHub: https://github.com/PaulMcAlduff
+**Paul S. McAlduff**\
+GitHub: [https://github.com/PaulMcAlduff](https://github.com/DuckDodgers24/Paul_S_McAlduff/tree/main)
