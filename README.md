@@ -1,34 +1,48 @@
 # Paul S. McAlduff
-This is my personal portfolio repository on GitHub
+
+This is my personal portfolio repository on GitHub.
+
+---
 
 ## Education
 
-### Associate's degree
-Cape Cod Community College
+**Associate’s Degree**  
+Cape Cod Community College  
 
-### Bachlor's degree
-Bridgewater State University
+**Bachelor’s Degree**  
+Bridgewater State University  
+
+---
 
 ## Employment
 
-### Adnunct Porfessor
-Jeonnam State University, Damyang, South Korea
-* PhotoShop
-* MS Office
-* Drone Operation
-* Dron Coding
+**Adjunct Professor**  
+Jeonnam State University — Damyang, South Korea  
 
-### Proofreader
-Journal of Power Electronics, Seoul, South Korea
+Courses:
+- Photoshop  
+- MS Office  
+- Drone Operation  
+- Drone Coding  
 
-## Programing
+**Proofreader**  
+Journal of Power Electronics — Seoul, South Korea  
 
-### Python
-* Tkinter
-* Pillow
-* psycopg2
-  
-### SQL
-* MySQL - Workbench and shell
-* PostgreSQL - pgAdmin and SQL Shell (psql)
-* DBeaver
+---
+
+## Programming & Technical Skills
+
+### Languages & Development
+- Python  
+- Qt (PySide6)  
+- Tkinter  
+- SQL  
+
+### Libraries & Tools
+- Pillow  
+- psycopg2  
+
+### Databases
+- MySQL (Workbench & Shell)  
+- PostgreSQL (pgAdmin & psql)  
+- DBeaver  
