@@ -114,9 +114,11 @@ Then:
 ```
 icomaker/
 │
-├── IcoMaker.py
-├── SoftPawPrint.ico
-├── info-circle.png
+├── IcoMaker_V1.2.py
+├── icomaker-icon-black.ico
+├── icomaker-icon-white.ico
+├── info-circle-black.png
+├── info-circle-black.png
 ├── README.md
 ```
 
