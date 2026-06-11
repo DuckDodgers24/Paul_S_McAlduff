@@ -57,11 +57,14 @@ Files that do not meet these requirements are silently ignored.
 
 Each valid PNG is converted into a Windows ICO file containing the following embedded sizes:
 
-- 256×256  
-- 128×128  
-- 64×64  
-- 32×32  
-- 16×16  
+- 256×256
+- 128×128
+- 64×64
+- 48×48
+- 32×32
+- 24×24
+- 20×20
+- 16×16
 
 If a target `.ico` file already exists:
 
