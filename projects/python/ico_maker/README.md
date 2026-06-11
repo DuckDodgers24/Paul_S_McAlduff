@@ -27,8 +27,6 @@ pip install PySide6 Pillow
 - Guaranteed lossless conversion  
 - Automatic multi-resolution ICO generation  
 - Automatic filename conflict handling  
-- Tooltip-based explanation of format requirements  
-- Custom window icon  
 - Minimal, distraction-free UI  
 
 ---
