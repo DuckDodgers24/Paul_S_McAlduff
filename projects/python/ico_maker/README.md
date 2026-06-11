@@ -108,7 +108,7 @@ Then:
 
 ## Screenshots
 
-![Image Converter -- Main Window](screenshots/ico-maker.png)
+![Image Converter -- Main Window](screenshots/IcoMaker_V1.5.png)
 
 ---
 
