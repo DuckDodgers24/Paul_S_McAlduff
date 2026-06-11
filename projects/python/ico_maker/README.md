@@ -117,11 +117,11 @@ Then:
 ```
 icomaker/
 │
-├── IcoMaker_V1.2.py
+├── IcoMaker_V1.5.py
+├── ico-file.png
 ├── icomaker-icon-black.ico
 ├── icomaker-icon-white.ico
-├── info-circle-black.png
-├── info-circle-black.png
+├── png-file.png
 ├── README.md
 ```
 
